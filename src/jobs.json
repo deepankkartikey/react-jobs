@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "c821",
-      "title": "Test Job 1",
-      "type": "Full-Time",
-      "location": "Toronto",
-      "description": "Test Description 1",
-      "salary": "Under $50K",
-      "company": {
-        "name": "Test Company 1",
-        "description": "This is good",
-        "contactEmail": "test1@test.com",
-        "contactPhone": "test-123-4567"
-      }
     }
   ]
 }
